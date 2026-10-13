@@ -1,0 +1,385 @@
+target_role,skill,posting_count,total_postings,demand_percentage,source,observation_label,observed_at
+Software Engineer,Python,62,100,62.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Software Engineer,Python,68,100,68.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Software Engineer,Java,48,100,48.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Software Engineer,Java,52,100,52.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Software Engineer,Data Structures and Algorithms,75,100,75.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Software Engineer,Data Structures and Algorithms,78,100,78.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Software Engineer,Git,70,100,70.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Software Engineer,Git,74,100,74.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Software Engineer,REST APIs,55,100,55.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Software Engineer,REST APIs,63,100,63.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Software Engineer,Testing,45,100,45.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Software Engineer,Testing,51,100,51.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Python Developer,Python,75,100,75.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Python Developer,Python,82,100,82.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Python Developer,SQL,58,100,58.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Python Developer,SQL,64,100,64.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Python Developer,FastAPI,35,100,35.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Python Developer,FastAPI,48,100,48.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Python Developer,Django,42,100,42.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Python Developer,Django,44,100,44.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Python Developer,Git,68,100,68.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Python Developer,Git,72,100,72.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Python Developer,REST APIs,55,100,55.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Python Developer,REST APIs,62,100,62.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Java Developer,Java,76,100,76.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Java Developer,Java,81,100,81.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Java Developer,Spring Boot,58,100,58.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Java Developer,Spring Boot,66,100,66.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Java Developer,SQL,60,100,60.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Java Developer,SQL,63,100,63.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Java Developer,REST APIs,55,100,55.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Java Developer,REST APIs,61,100,61.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Java Developer,Git,65,100,65.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Java Developer,Git,69,100,69.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Java Developer,Microservices,38,100,38.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Java Developer,Microservices,46,100,46.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Frontend Developer,JavaScript,82,100,82.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Frontend Developer,JavaScript,86,100,86.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Frontend Developer,React,63,100,63.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Frontend Developer,React,72,100,72.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Frontend Developer,HTML,80,100,80.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Frontend Developer,HTML,82,100,82.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Frontend Developer,CSS,79,100,79.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Frontend Developer,CSS,81,100,81.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Frontend Developer,TypeScript,45,100,45.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Frontend Developer,TypeScript,59,100,59.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Frontend Developer,Accessibility,24,100,24.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Frontend Developer,Accessibility,31,100,31.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Backend Developer,REST APIs,70,100,70.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Backend Developer,REST APIs,77,100,77.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Backend Developer,SQL,68,100,68.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Backend Developer,SQL,72,100,72.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Backend Developer,Docker,38,100,38.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Backend Developer,Docker,50,100,50.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Backend Developer,Authentication,48,100,48.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Backend Developer,Authentication,56,100,56.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Backend Developer,Caching,28,100,28.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Backend Developer,Caching,34,100,34.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Backend Developer,Python,53,100,53.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Backend Developer,Python,59,100,59.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Full Stack Developer,JavaScript,78,100,78.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Full Stack Developer,JavaScript,82,100,82.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Full Stack Developer,React,58,100,58.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Full Stack Developer,React,66,100,66.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Full Stack Developer,Node.js,54,100,54.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Full Stack Developer,Node.js,61,100,61.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Full Stack Developer,SQL,62,100,62.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Full Stack Developer,SQL,66,100,66.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Full Stack Developer,REST APIs,61,100,61.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Full Stack Developer,REST APIs,69,100,69.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Full Stack Developer,Docker,34,100,34.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Full Stack Developer,Docker,42,100,42.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Data Analyst,SQL,82,100,82.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Data Analyst,SQL,86,100,86.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Data Analyst,Excel,78,100,78.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Data Analyst,Excel,76,100,76.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Data Analyst,Power BI,58,100,58.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Data Analyst,Power BI,67,100,67.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Data Analyst,Python,53,100,53.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Data Analyst,Python,61,100,61.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Data Analyst,Statistics,50,100,50.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Data Analyst,Statistics,55,100,55.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Data Analyst,Data Visualization,64,100,64.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Data Analyst,Data Visualization,70,100,70.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Data Scientist,Python,80,100,80.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Data Scientist,Python,88,100,88.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Data Scientist,SQL,72,100,72.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Data Scientist,SQL,78,100,78.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Data Scientist,Machine Learning,68,100,68.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Data Scientist,Machine Learning,76,100,76.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Data Scientist,Statistics,62,100,62.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Data Scientist,Statistics,67,100,67.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Data Scientist,Pandas,60,100,60.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Data Scientist,Pandas,69,100,69.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Data Scientist,Data Visualization,52,100,52.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Data Scientist,Data Visualization,58,100,58.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Machine Learning Engineer,Python,78,100,78.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Machine Learning Engineer,Python,84,100,84.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Machine Learning Engineer,Machine Learning,75,100,75.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Machine Learning Engineer,Machine Learning,82,100,82.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Machine Learning Engineer,PyTorch,48,100,48.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Machine Learning Engineer,PyTorch,59,100,59.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Machine Learning Engineer,TensorFlow,45,100,45.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Machine Learning Engineer,TensorFlow,49,100,49.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Machine Learning Engineer,Model Deployment,38,100,38.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Machine Learning Engineer,Model Deployment,51,100,51.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Machine Learning Engineer,MLOps,28,100,28.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Machine Learning Engineer,MLOps,40,100,40.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+AI Engineer,Python,76,100,76.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+AI Engineer,Python,83,100,83.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+AI Engineer,LLM Applications,32,100,32.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+AI Engineer,LLM Applications,61,100,61.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+AI Engineer,RAG,22,100,22.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+AI Engineer,RAG,53,100,53.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+AI Engineer,Prompt Engineering,30,100,30.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+AI Engineer,Prompt Engineering,44,100,44.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+AI Engineer,Model Evaluation,25,100,25.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+AI Engineer,Model Evaluation,39,100,39.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+AI Engineer,APIs,58,100,58.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+AI Engineer,APIs,65,100,65.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Business Analyst,Excel,80,100,80.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Business Analyst,Excel,83,100,83.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Business Analyst,SQL,58,100,58.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Business Analyst,SQL,62,100,62.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Business Analyst,Requirements Gathering,68,100,68.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Business Analyst,Requirements Gathering,71,100,71.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Business Analyst,Process Mapping,45,100,45.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Business Analyst,Process Mapping,49,100,49.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Business Analyst,Power BI,42,100,42.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Business Analyst,Power BI,50,100,50.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Business Analyst,Communication,75,100,75.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Business Analyst,Communication,77,100,77.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+DevOps Engineer,Linux,70,100,70.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+DevOps Engineer,Linux,74,100,74.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+DevOps Engineer,Docker,65,100,65.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+DevOps Engineer,Docker,73,100,73.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+DevOps Engineer,Kubernetes,48,100,48.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+DevOps Engineer,Kubernetes,59,100,59.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+DevOps Engineer,CI/CD,58,100,58.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+DevOps Engineer,CI/CD,67,100,67.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+DevOps Engineer,Cloud Platforms,62,100,62.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+DevOps Engineer,Cloud Platforms,70,100,70.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+DevOps Engineer,Infrastructure as Code,35,100,35.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+DevOps Engineer,Infrastructure as Code,47,100,47.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Cloud Engineer,AWS,64,100,64.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Cloud Engineer,AWS,70,100,70.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Cloud Engineer,Azure,55,100,55.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Cloud Engineer,Azure,61,100,61.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Cloud Engineer,Linux,58,100,58.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Cloud Engineer,Linux,61,100,61.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Cloud Engineer,Networking,50,100,50.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Cloud Engineer,Networking,53,100,53.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Cloud Engineer,Terraform,34,100,34.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Cloud Engineer,Terraform,46,100,46.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Cloud Engineer,Docker,45,100,45.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Cloud Engineer,Docker,51,100,51.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Cybersecurity Analyst,Networking,70,100,70.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Cybersecurity Analyst,Networking,78,100,78.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Cybersecurity Analyst,Linux,60,100,60.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Cybersecurity Analyst,Linux,75,100,75.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Cybersecurity Analyst,SIEM Tools,45,100,45.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Cybersecurity Analyst,SIEM Tools,65,100,65.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Cybersecurity Analyst,Incident Response,48,100,48.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Cybersecurity Analyst,Incident Response,56,100,56.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Cybersecurity Analyst,Python,50,100,50.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Cybersecurity Analyst,Python,57,100,57.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Cybersecurity Analyst,Vulnerability Assessment,42,100,42.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Cybersecurity Analyst,Vulnerability Assessment,51,100,51.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+QA Engineer,Manual Testing,72,100,72.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+QA Engineer,Manual Testing,68,100,68.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+QA Engineer,Automation Testing,58,100,58.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+QA Engineer,Automation Testing,67,100,67.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+QA Engineer,Selenium,46,100,46.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+QA Engineer,Selenium,55,100,55.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+QA Engineer,API Testing,52,100,52.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+QA Engineer,API Testing,61,100,61.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+QA Engineer,SQL,45,100,45.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+QA Engineer,SQL,48,100,48.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+QA Engineer,CI/CD,28,100,28.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+QA Engineer,CI/CD,37,100,37.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Mobile App Developer,Kotlin,48,100,48.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Mobile App Developer,Kotlin,55,100,55.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Mobile App Developer,Swift,42,100,42.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Mobile App Developer,Swift,47,100,47.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Mobile App Developer,Flutter,52,100,52.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Mobile App Developer,Flutter,61,100,61.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Mobile App Developer,React Native,45,100,45.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Mobile App Developer,React Native,53,100,53.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Mobile App Developer,REST APIs,50,100,50.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Mobile App Developer,REST APIs,55,100,55.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Mobile App Developer,App Testing,38,100,38.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Mobile App Developer,App Testing,42,100,42.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+UI/UX Designer,Figma,72,100,72.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+UI/UX Designer,Figma,79,100,79.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+UI/UX Designer,User Research,65,100,65.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+UI/UX Designer,User Research,69,100,69.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+UI/UX Designer,Prototyping,68,100,68.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+UI/UX Designer,Prototyping,72,100,72.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+UI/UX Designer,Accessibility,35,100,35.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+UI/UX Designer,Accessibility,44,100,44.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+UI/UX Designer,Design Systems,46,100,46.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+UI/UX Designer,Design Systems,57,100,57.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+UI/UX Designer,Usability Testing,54,100,54.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+UI/UX Designer,Usability Testing,60,100,60.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Product Manager,Roadmapping,72,100,72.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Product Manager,Roadmapping,76,100,76.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Product Manager,Stakeholder Management,74,100,74.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Product Manager,Stakeholder Management,78,100,78.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Product Manager,Analytics,58,100,58.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Product Manager,Analytics,64,100,64.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Product Manager,User Research,55,100,55.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Product Manager,User Research,59,100,59.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Product Manager,Agile,62,100,62.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Product Manager,Agile,66,100,66.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Product Manager,Communication,80,100,80.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Product Manager,Communication,82,100,82.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Project Manager,Planning,78,100,78.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Project Manager,Planning,80,100,80.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Project Manager,Risk Management,62,100,62.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Project Manager,Risk Management,65,100,65.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Project Manager,Agile,58,100,58.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Project Manager,Agile,63,100,63.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Project Manager,Stakeholder Management,70,100,70.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Project Manager,Stakeholder Management,73,100,73.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Project Manager,Budget Management,55,100,55.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Project Manager,Budget Management,58,100,58.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Project Manager,Communication,82,100,82.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Project Manager,Communication,84,100,84.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Digital Marketing Specialist,SEO,70,100,70.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Digital Marketing Specialist,SEO,75,100,75.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Digital Marketing Specialist,Google Analytics,64,100,64.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Digital Marketing Specialist,Google Analytics,72,100,72.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Digital Marketing Specialist,Content Marketing,68,100,68.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Digital Marketing Specialist,Content Marketing,71,100,71.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Digital Marketing Specialist,Social Media,72,100,72.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Digital Marketing Specialist,Social Media,74,100,74.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Digital Marketing Specialist,Paid Advertising,55,100,55.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Digital Marketing Specialist,Paid Advertising,63,100,63.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Digital Marketing Specialist,Email Marketing,48,100,48.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Digital Marketing Specialist,Email Marketing,52,100,52.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+HR Analyst,Excel,70,100,70.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+HR Analyst,Excel,73,100,73.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+HR Analyst,HRIS,48,100,48.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+HR Analyst,HRIS,55,100,55.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+HR Analyst,People Analytics,36,100,36.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+HR Analyst,People Analytics,48,100,48.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+HR Analyst,Recruitment Analytics,32,100,32.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+HR Analyst,Recruitment Analytics,43,100,43.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+HR Analyst,Communication,78,100,78.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+HR Analyst,Communication,80,100,80.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+HR Analyst,Labor Law Basics,42,100,42.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+HR Analyst,Labor Law Basics,44,100,44.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Financial Analyst,Excel,82,100,82.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Financial Analyst,Excel,85,100,85.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Financial Analyst,Financial Modeling,65,100,65.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Financial Analyst,Financial Modeling,71,100,71.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Financial Analyst,Accounting,62,100,62.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Financial Analyst,Accounting,65,100,65.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Financial Analyst,SQL,38,100,38.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Financial Analyst,SQL,44,100,44.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Financial Analyst,Power BI,42,100,42.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Financial Analyst,Power BI,51,100,51.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Financial Analyst,Forecasting,54,100,54.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Financial Analyst,Forecasting,60,100,60.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Sales Executive,Communication,84,100,84.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Sales Executive,Communication,85,100,85.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Sales Executive,Negotiation,70,100,70.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Sales Executive,Negotiation,74,100,74.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Sales Executive,CRM Tools,58,100,58.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Sales Executive,CRM Tools,66,100,66.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Sales Executive,Lead Generation,68,100,68.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Sales Executive,Lead Generation,72,100,72.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Sales Executive,Presentation,75,100,75.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Sales Executive,Presentation,77,100,77.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Sales Executive,Sales Analytics,35,100,35.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Sales Executive,Sales Analytics,43,100,43.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Operations Analyst,Excel,76,100,76.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Operations Analyst,Excel,79,100,79.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Operations Analyst,SQL,48,100,48.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Operations Analyst,SQL,54,100,54.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Operations Analyst,Process Improvement,62,100,62.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Operations Analyst,Process Improvement,67,100,67.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Operations Analyst,Reporting,70,100,70.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Operations Analyst,Reporting,73,100,73.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Operations Analyst,Power BI,40,100,40.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Operations Analyst,Power BI,48,100,48.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Operations Analyst,Forecasting,45,100,45.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Operations Analyst,Forecasting,51,100,51.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Technical Support Engineer,Troubleshooting,80,100,80.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Technical Support Engineer,Troubleshooting,83,100,83.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Technical Support Engineer,Networking,65,100,65.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Technical Support Engineer,Networking,69,100,69.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Technical Support Engineer,Windows/Linux,62,100,62.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Technical Support Engineer,Windows/Linux,67,100,67.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Technical Support Engineer,Ticketing Systems,55,100,55.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Technical Support Engineer,Ticketing Systems,61,100,61.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Technical Support Engineer,Customer Communication,75,100,75.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Technical Support Engineer,Customer Communication,77,100,77.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Technical Support Engineer,Scripting,35,100,35.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Technical Support Engineer,Scripting,42,100,42.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Database Administrator,SQL,84,100,84.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Database Administrator,SQL,87,100,87.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Database Administrator,Database Backup,68,100,68.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Database Administrator,Database Backup,72,100,72.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Database Administrator,Performance Tuning,58,100,58.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Database Administrator,Performance Tuning,65,100,65.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Database Administrator,Database Security,52,100,52.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Database Administrator,Database Security,59,100,59.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Database Administrator,Replication,40,100,40.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Database Administrator,Replication,47,100,47.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Database Administrator,Cloud Databases,38,100,38.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Database Administrator,Cloud Databases,49,100,49.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Embedded Systems Engineer,C/C++,74,100,74.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Embedded Systems Engineer,C/C++,77,100,77.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Embedded Systems Engineer,Microcontrollers,65,100,65.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Embedded Systems Engineer,Microcontrollers,68,100,68.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Embedded Systems Engineer,RTOS,45,100,45.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Embedded Systems Engineer,RTOS,51,100,51.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Embedded Systems Engineer,Embedded Linux,42,100,42.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Embedded Systems Engineer,Embedded Linux,48,100,48.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Embedded Systems Engineer,Debugging,70,100,70.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Embedded Systems Engineer,Debugging,73,100,73.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Embedded Systems Engineer,Communication Protocols,48,100,48.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Embedded Systems Engineer,Communication Protocols,54,100,54.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Game Developer,C#,60,100,60.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Game Developer,C#,66,100,66.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Game Developer,Unity,58,100,58.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Game Developer,Unity,65,100,65.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Game Developer,Unreal Engine,42,100,42.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Game Developer,Unreal Engine,50,100,50.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Game Developer,3D Mathematics,38,100,38.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Game Developer,3D Mathematics,41,100,41.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Game Developer,Optimization,44,100,44.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Game Developer,Optimization,50,100,50.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Game Developer,Version Control,52,100,52.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Game Developer,Version Control,57,100,57.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Network Engineer,Networking,84,100,84.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Network Engineer,Networking,87,100,87.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Network Engineer,Routing and Switching,76,100,76.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Network Engineer,Routing and Switching,79,100,79.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Network Engineer,Firewalls,65,100,65.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Network Engineer,Firewalls,71,100,71.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Network Engineer,Linux,48,100,48.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Network Engineer,Linux,51,100,51.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Network Engineer,Cloud Networking,38,100,38.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Network Engineer,Cloud Networking,47,100,47.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Network Engineer,Network Monitoring,58,100,58.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Network Engineer,Network Monitoring,64,100,64.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Technical Writer,Documentation,82,100,82.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Technical Writer,Documentation,84,100,84.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Technical Writer,Writing,85,100,85.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Technical Writer,Writing,87,100,87.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Technical Writer,API Documentation,48,100,48.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Technical Writer,API Documentation,59,100,59.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Technical Writer,Markdown,55,100,55.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Technical Writer,Markdown,61,100,61.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Technical Writer,Information Architecture,38,100,38.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Technical Writer,Information Architecture,43,100,43.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Technical Writer,Editing,65,100,65.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Technical Writer,Editing,68,100,68.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Data Engineer,SQL,82,100,82.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Data Engineer,SQL,87,100,87.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Data Engineer,Python,70,100,70.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Data Engineer,Python,76,100,76.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Data Engineer,ETL,62,100,62.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Data Engineer,ETL,71,100,71.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Data Engineer,Data Warehousing,60,100,60.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Data Engineer,Data Warehousing,68,100,68.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Data Engineer,Spark,42,100,42.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Data Engineer,Spark,53,100,53.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Data Engineer,Airflow,38,100,38.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Data Engineer,Airflow,49,100,49.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Research Scientist,Research Methods,76,100,76.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Research Scientist,Research Methods,79,100,79.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Research Scientist,Statistics,74,100,74.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Research Scientist,Statistics,78,100,78.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Research Scientist,Python,58,100,58.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Research Scientist,Python,65,100,65.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Research Scientist,Experimental Design,62,100,62.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Research Scientist,Experimental Design,66,100,66.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Research Scientist,Scientific Writing,68,100,68.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Research Scientist,Scientific Writing,72,100,72.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
+Research Scientist,Data Analysis,70,100,70.0,Synthetic sample data - not real job postings,earlier,2026-09-13T00:00:00
+Research Scientist,Data Analysis,75,100,75.0,Synthetic sample data - not real job postings,latest,2026-10-12T00:00:00
